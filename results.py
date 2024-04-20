@@ -55,3 +55,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+# Este código solo se debe de compilar en terminal con el comando python results.py; el ingreso de los datos ya esta especificado en el documento
+
